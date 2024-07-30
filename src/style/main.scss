@@ -1,0 +1,68 @@
+@import './reset.scss';
+
+body{
+    background-color: #E7E7E7;
+    background-image: url("/src/asset/bg.png");
+    background-size: cover;
+}
+
+
+
+
+
+// -------------------------------------FONT-------------------------------------
+@font-face {
+    font-family: 'suisseintlR';
+    src: url(/src/assets/font/SuisseIntl-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'suisseintlM';
+    src: url(/src/assets/font/SuisseIntl-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'suisseintlL';
+    src: url(/src/assets/font/SuisseIntl-Light.ttf);
+}
+
+@font-face {
+    font-family: 'suisseintlB';
+    src: url(/src/assets/font/SuisseIntl-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'suisseneueM';
+    src: url(/src/assets/font/SuisseNeueMedium.ttf);
+}
+
+@font-face {
+    font-family: 'suisseneueL';
+    src: url(/src/assets/font/SuisseNeueLight.ttf);
+}
+
+
+p{
+    font-size: 16px;
+    font-family:'suisseintlR';
+}
+
+h1{
+    font-family: 32px;
+    font-family:'suisseintlL';
+}
+
+h2{
+    font-size: 24px;
+    font-family:'suisseneueM';
+}
+
+h3{
+    font-size: 20px;
+    font-family:'suisseintlM' ;
+}
+
+h4{
+    font-size: 16px;
+    font-family:'suisseneueM';
+}
