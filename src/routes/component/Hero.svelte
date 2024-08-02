@@ -5,10 +5,10 @@
 
 
 <section>
-    <img class="logo" src="/src/assets/logo/logo.png" alt="Seg2Inov">
+    <img class="logo" src="/assets/logo/logo.png" alt="Seg2Inov">
     <div class="testimage">
         <h1>L’intelligence artificielle pour les commerces </h1>
-        <img class="illustration" src="/src/assets/iaimage/pink.jpg" alt="a painting blue">
+        <img class="illustration" src="/assets/iaimage/pink.jpg" alt="a painting blue">
     </div>
     
     

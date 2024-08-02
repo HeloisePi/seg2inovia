@@ -24,7 +24,7 @@
  
 
     a::after{
-        content: url(/src/assets/iaimage/blue.jpg) ;
+        content: url(/assets/iaimage/blue.jpg) ;
         height: 0;
         left: 0%;
         transition: all 250ms cubic-bezier(0.565, 0.020, 0.495, 0.990); /* custom */

@@ -7,7 +7,7 @@
     <slot>
     </slot>
 
-    <img src="/src/assets/arrow/send.svg" alt="Aller sur le reseau">
+    <img src="/assets/arrow/send.svg" alt="Aller sur le reseau">
 </a>
 
 

@@ -54,7 +54,7 @@
 <section bind:this={imgProjectContainer} on:mousemove={handleMouseMove} on:mouseleave={handleMouseLeave} class="sticky-container">
     <div class="title">
         <h2>{title}</h2>
-        <img  src="/src/assets/arrow/seemore.svg" alt="seemore">
+        <img  src="/assets/arrow/seemore.svg" alt="seemore">
     </div>
     <div class="content">
         <p>{paragraph1}</p>

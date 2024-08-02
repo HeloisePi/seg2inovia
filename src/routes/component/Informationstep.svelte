@@ -9,7 +9,7 @@
                 title="01 Découvrez"
                 paragraph1="Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian pork lot anchovies. Lovers crust chicken garlic style parmesan deep beef"
                 paragraph2="Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian pork lot anchovies. Lovers crust chicken garlic style parmesan deep beef"
-                srcimg="/src/assets/iaimage/red.png"
+                srcimg="/assets/iaimage/red.png"
             /> 
         </div>
     </div>
@@ -19,7 +19,7 @@
                 title="02 Essayer"
                 paragraph1="Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian pork lot anchovies. Lovers crust chicken garlic style parmesan deep beef"
                 paragraph2="Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian pork lot anchovies. Lovers crust chicken garlic style parmesan deep beef"
-                srcimg="/src/assets/iaimage/green.png"
+                srcimg="/assets/iaimage/green.png"
             /> 
             
         </div> 
@@ -30,7 +30,7 @@
                 title="03 Adoptez"
                 paragraph1="Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian pork lot anchovies. Lovers crust chicken garlic style parmesan deep beef"
                 paragraph2="Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian pork lot anchovies. Lovers crust chicken garlic style parmesan deep beef"
-                srcimg="/src/assets/iaimage/purple.png"
+                srcimg="/assets/iaimage/purple.png"
             /> 
            
         </div>

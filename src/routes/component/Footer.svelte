@@ -4,7 +4,7 @@
 
 <div class="div">
 <section>
-    <img class="logo" src="/src/assets/logo/logo.png" alt="Seg2Inov">
+    <img class="logo" src="/assets/logo/logo.png" alt="Seg2Inov">
 
     <div class="contactlink">
         <h3>CONTACT</h3>
@@ -15,10 +15,9 @@
 
     <div class="contactlink">
         <h3>OÙ NOUS TROUVER ?</h3>
-        <div class="link"><p>LinkedIn</p> <img src="/src/assets/arrow/linkexterne.svg" alt="lien externe pour Linkedin"></div>
-        <div  class="link" ><p>Facebook</p> <img src="/src/assets/arrow/linkexterne.svg" alt="lien externe pour facebook"></div>
-        <div  class="link" ><p>Instagram</p> <img src="/src/assets/arrow/linkexterne.svg" alt="lien externe pour Instagram"></div>
-
+        <div class="link"><p>LinkedIn</p> <img src="/assets/arrow/linkexterne.svg" alt="lien externe pour Linkedin"></div>
+        <div  class="link" ><p>Facebook</p> <img src="/assets/arrow/linkexterne.svg" alt="lien externe pour facebook"></div>
+        <div  class="link" ><p>Instagram</p> <img src="/assets/arrow/linkexterne.svg" alt="lien externe pour Instagram"></div>
 
     </div>
 </section>

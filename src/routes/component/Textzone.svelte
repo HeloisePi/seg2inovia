@@ -10,7 +10,7 @@
         <div class="contenaireab"><div class="round"><h4>b</h4></div><p class="subtitle">Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian</p></div>
         <div class="contenaireab"><div class="round"><h4>c</h4></div><p class="subtitle">Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian</p></div>
     </div>
-    <img src="/src/assets/coverimage.svg" alt="">
+    <img src="/assets/coverimage.svg" alt="">
 </section>
 
 
