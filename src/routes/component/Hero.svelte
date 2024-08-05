@@ -101,7 +101,7 @@
 
     @media screen and (max-height: 700px) {
         section{
-            height: 100vh;
+            height: fit-content;
         }
     }
 
