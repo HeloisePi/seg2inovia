@@ -42,6 +42,10 @@ section{
 
 }
 
+.logo{
+    width: 318.65px;
+}
+
 .link{
     display: flex;
     align-items: center;

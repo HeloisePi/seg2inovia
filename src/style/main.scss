@@ -45,35 +45,46 @@ body{
 p{
     font-size: 16px;
     font-family:'suisseintlR';
-    color: #252D2F;
+    color: #191A1B;
 }
 
 h1{
-    font-size: 32px;
-    font-family:'suisseintlL';
-    color: #252D2F;
+    font-size: 96px;
+    font-family:'suisseintlB';
+    color: #191A1B;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1300px) {
     h1{
-        font-size: 20px;
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 830px) {
+    h1{
+        font-size: 40px;
+    }
+}
+@media screen and (max-width: 550px) {
+    h1{
+        font-size: 30px;
     }
 }
 
 h2{
     font-size: 24px;
     font-family:'suisseneueM';
-    color: #252D2F;
+    color: #191A1B;
 }
 
 h3{
     font-size: 20px;
     font-family:'suisseintlM' ;
-    color: #252D2F;
+    color: #191A1B;
 }
 
 h4{
     font-size: 16px;
     font-family:'suisseneueM';
-    color: #252D2F;
+    color: #191A1B;
 }

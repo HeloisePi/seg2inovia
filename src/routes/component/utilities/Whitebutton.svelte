@@ -14,7 +14,7 @@
 <style lang="scss">
     @import '../../../style/main.scss';
     a{
-        border-radius: 30px;
+        border-radius: 60px;
         border: 1px solid black;
         padding: 28px;
         padding-left: 37px;
@@ -40,9 +40,14 @@
         padding: 20px;
 
     }
-
-    
     }
+
+    @media screen and (max-width: 1180px) {
+        a{
+        padding: 20px;
+
+    }
+}
 
 
 

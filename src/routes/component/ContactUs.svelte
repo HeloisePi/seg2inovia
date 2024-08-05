@@ -18,7 +18,7 @@
     section{
         display: flex;
         flex-direction: column;
-        gap: 24px;
+        gap: 44px;
         width: 80%;
         margin: auto;
         max-width: 1250px;

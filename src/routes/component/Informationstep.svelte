@@ -45,7 +45,7 @@
         justify-content: space-between;
         align-content: space-between;
         width: 80%;
-        max-width: 1250px;
+        max-width: 1650px;
     }
 
     .card {
