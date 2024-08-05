@@ -34,27 +34,26 @@
 
         window.requestAnimationFrame(() => {
             transformElement(imgProjectContainer, position);
-            updateHighlight(mouseX, mouseY, imgProject);
         });
     };
 
     let handleMouseLeave = () => {
-        imgProjectContainer.style.transition = "transform 0.5s ease, background 0.5s ease";
+        imgProjectContainer.style.transition = "transform 0.5s ease";
         imgProjectContainer.style.transform = "rotateX(0) rotateY(0)";
-        imgProjectContainer.style.background = "rgba(0, 0, 0, 0.60)";
     };
 
-    function updateHighlight(x, y, imgProject) {
-        let relX = x - imgProject.left;
-        let relY = y - imgProject.top;
-        imgProjectContainer.style.background = `radial-gradient(circle at ${relX}px ${relY}px, rgba(30, 30, 30, 0.1), rgba(0, 0, 0, 0.6) 40%)`;
-    }
+    // Fonction retirée car nous n'avons plus besoin de mettre à jour l'arrière-plan
+    // function updateHighlight(x, y, imgProject) {
+    //     let relX = x - imgProject.left;
+    //     let relY = y - imgProject.top;
+    //     imgProjectContainer.style.background = `radial-gradient(circle at ${relX}px ${relY}px, rgba(30, 30, 30, 0.1), rgba(0, 0, 0, 0.6) 40%)`;
+    // }
 </script>
 
 <section bind:this={imgProjectContainer} on:mousemove={handleMouseMove} on:mouseleave={handleMouseLeave} class="sticky-container">
     <div class="title">
         <h2>{title}</h2>
-        <img  src="/assets/arrow/seemore.svg" alt="seemore">
+        <img src="/assets/arrow/seemore.svg" alt="seemore">
     </div>
     <div class="content">
         <p>{paragraph1}</p>
@@ -74,7 +73,7 @@
         position: sticky;
         top: 10px; /* Hauteur de l'espace sticky depuis le haut */
         overflow: visible; /* Assurez-vous que le contenu est visible */
-        transition: transform 0.5s ease, background 0.5s ease;
+        transition: transform 0.5s ease;
     }
 
     p, h2 {
