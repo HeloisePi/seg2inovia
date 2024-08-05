@@ -94,7 +94,7 @@
         .logo{
             height: 30px;
             transform: translateY(5px);
-            height: fit-content;
+            height: auto;
             width: 35%;
         }
     }
