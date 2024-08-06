@@ -8,15 +8,15 @@
     <p>Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian pork lot anchovies. Lovers crust chicken garlic style parmesan deep beef mushrooms marinara. Ham roll green dolor Chicago. </p>
     <div class="linkedin ">
         <img class="linkedinimg img" src="/assets/linkedin.png" alt="linkedin">
-        <Whitebutton href="#"><p>Linkedin</p></Whitebutton>
+        <Whitebutton href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p></Whitebutton>
     </div>
     <div class="facebook ">
         <img class="facebookimg img" src="/assets/instagram.png" alt="image instagram">
-        <Whitebutton href="#"><p>Instagram</p></Whitebutton>
+        <Whitebutton href="https://www.instagram.com/seg2inov/"><p>Instagram</p></Whitebutton>
     </div>
     <div class="instagram ">
         <img class="instagramimg img" src="/assets/facebook.png" alt="image facebook">
-        <Whitebutton href="#"><p>Facebook</p></Whitebutton>
+        <Whitebutton href="https://www.facebook.com/profile.php?id=61562257696981"><p>Facebook</p></Whitebutton>
     </div> 
 </section>
 
