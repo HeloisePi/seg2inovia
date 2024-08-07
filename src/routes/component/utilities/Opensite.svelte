@@ -30,7 +30,7 @@
 
     img{
         width: 20%;
-        height: fit-content;
+        height: auto;
         animation: Logo 2000ms ease-in-out;
 
     }
