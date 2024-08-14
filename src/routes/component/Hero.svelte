@@ -99,9 +99,10 @@
         }
     }
 
-    @media screen and (max-height: 700px) {
+    @media screen and (max-height: 780px) {
         section{
-            height: fit-content;
+            height: fit-content ;
+            padding-bottom: 50vh;
         }
     }
 
