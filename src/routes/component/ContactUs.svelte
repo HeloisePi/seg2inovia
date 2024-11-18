@@ -5,7 +5,7 @@
 
 <section class="contenaire">
     <h2>Contactez nous </h2>
-    <p>Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian pork lot anchovies. Lovers crust chicken garlic style parmesan deep beef mushrooms marinara. Ham roll green dolor Chicago. </p>
+    <p> Découvrez comment notre solution d’intelligence artificielle peut optimiser vos opérations et améliorer vos performances commerciales. Pour en savoir plus ou pour discuter de vos besoins, n’hésitez pas à nous contacter. Notre équipe est à votre disposition pour vous accompagner dans votre transition vers des processus plus efficaces et innovants.</p>
     <div class="linkedin ">
         <img class="linkedinimg img" src="/assets/linkedin.png" alt="linkedin">
         <Whitebutton href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><p>Linkedin</p></Whitebutton>
