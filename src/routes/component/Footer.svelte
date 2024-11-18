@@ -10,7 +10,7 @@
         <h3>CONTACT</h3>
         <p>support@seg2inov.fr</p>
         <p>contact@seg2inov.fr</p>
-        <p>09 70 70 36 96</p>
+        <p>09 70 70 26 96</p>
     </div>
 
     <div class="contactlink">
@@ -22,7 +22,7 @@
     </div>
 </section>
 <div class="mentionlegale">
-    <p>Mention Légal </p>
+    <p>Tous droits réservés à Seg2Inov - Mentions légales </p>
 </div>
 </div>
 
