@@ -3,14 +3,16 @@
 
 <section>
     <div class="contenaire">
-        <h2>LOREM ipsum titre </h2>
+        <h2>Un commerce gagnant</h2>
 
-        <p>Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian pork lot anchovies. Lovers crust chicken garlic style parmesan deep beef mushrooms marinara. Ham roll green dolor Chicago. </p>
-        <div class="contenaireab" ><div class="round"><h4>a</h4></div><p class="subtitle">Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian</p></div>
-        <div class="contenaireab"><div class="round"><h4>b</h4></div><p class="subtitle">Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian</p></div>
-        <div class="contenaireab"><div class="round"><h4>c</h4></div><p class="subtitle">Pizza ipsum dolor meat lovers buffalo. Ricotta bell mayo pie green Hawaiian</p></div>
+        <p>L'étude des données de vente en temps réel permet de repérer les tendances, les comportements d'achat, les préférences des consommateurs et facilite la prise de décisions concernant les approvisionnements et la communication, marketing, promotions.<br>
+            Disposer d'une connaissance approfondie des clients permet d’ajuster les stratégies commerciales, en mettant l'accent sur le programme de fidélité pertinent.<br>
+            </p>
+        <div class="contenaireab" ><div class="round"><h4>a</h4></div><p class="subtitle">Les recommandations basées sur l'IA peuvent être utiles aux vendeurs pour diriger les clients vers des produits alternatifs qu'ils n'auraient peut-être pas envisagés d'acheter.</p></div>
+        <div class="contenaireab"><div class="round"><h4>b</h4></div><p class="subtitle">Les commerces peuvent recourir à l'IA pour diminuer le gaspillage, et les aider à augmenter leurs revenus et leurs marges en vérifiant que les articles sont en stock.        </p></div>
+        <div class="contenaireab"><div class="round"><h4>c</h4></div><p class="subtitle">Les commerces ont la capacité d'utiliser l'IA pour examiner les données sur la demande, la concurrence et le coût des produits, afin de recommander des stratégies de tarification optimales.        </p></div>
     </div>
-    <img src="/assets/coverimage.svg" alt="">
+    <img src="/assets/iaimage/marketWin.png" alt="Ville pleine de couleure dans un style de peinture">
 </section>
 
 

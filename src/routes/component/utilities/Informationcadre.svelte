@@ -86,6 +86,9 @@
         padding: 1.5rem;
         border-bottom: 1px solid white;
     }
+    h2{
+        max-width: 333px;
+    }
 
     .content {
         padding: 1.5rem;
