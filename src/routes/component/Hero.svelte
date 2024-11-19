@@ -10,11 +10,11 @@
     <h1>L’intelligence artificielle <br> de <span><img class="logo" src="/assets/logo/logo.png" alt="Seg2INov"></span> au service<br>
         des commerces.</h1>
 
-    <Whitebutton href="#">
+<!--   <Whitebutton href="#">
         <p>Notre solution</p>
-    </Whitebutton>
+    </Whitebutton>--> 
 
-    <Whitebutton href="#">
+    <Whitebutton href="https://seg2inov.eu">
         <p>S2cash</p>
     </Whitebutton>
     

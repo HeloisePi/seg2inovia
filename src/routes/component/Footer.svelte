@@ -8,21 +8,21 @@
 
     <div class="contactlink">
         <h3>CONTACT</h3>
-        <p>support@seg2inov.fr</p>
-        <p>contact@seg2inov.fr</p>
-        <p>09 70 70 26 96</p>
+        <a href="mailto:support@seg2inov.fr"><p>support@seg2inov.fr</p></a>
+        <a href="mailto:support@seg2inov.fr"><p>contact@seg2inov.fr</p></a> 
+        <a href="tel:+0970702696"><p>09 70 70 26 96</p></a>
     </div>
 
     <div class="contactlink">
         <h3>OÙ NOUS TROUVER ?</h3>
-        <div class="link"><p>LinkedIn</p> <img src="/assets/arrow/linkexterne.svg" alt="lien externe pour Linkedin"></div>
-        <div  class="link" ><p>Facebook</p> <img src="/assets/arrow/linkexterne.svg" alt="lien externe pour facebook"></div>
-        <div  class="link" ><p>Instagram</p> <img src="/assets/arrow/linkexterne.svg" alt="lien externe pour Instagram"></div>
+        <a href="https://www.linkedin.com/company/seg2inov/?viewAsMember=true"><div class="link"><p>LinkedIn</p> <img src="/assets/arrow/linkexterne.svg" alt="lien externe pour Linkedin"></div></a>
+        <a href="https://www.facebook.com/profile.php?id=61562257696981"><div  class="link" ><p>Facebook</p> <img src="/assets/arrow/linkexterne.svg" alt="lien externe pour facebook"></div></a>
+        <a href="https://www.instagram.com/seg2inov/"><div  class="link" ><p>Instagram</p> <img src="/assets/arrow/linkexterne.svg" alt="lien externe pour Instagram"></div></a>
 
     </div>
 </section>
 <div class="mentionlegale">
-    <p>Tous droits réservés à Seg2Inov - Mentions légales </p>
+    <p>Tous droits réservés à SEG2INOV - Mentions légales </p>
 </div>
 </div>
 
